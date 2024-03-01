@@ -1,3 +1,3 @@
-This project was very tasking but very rewarding at the same time , although I did make the edges too sharp on the face (due to lack of time this project I only had a week to complete) it challeneged my modeling abillities. 
-3D modeling is something that I will always enjoy doing among other things , it is incredibly rewarding and it challenges your math skills as you definently need to have a good understanding of math in order to be decent at it.
-This README is honestly a background for all my 3D modeling projects so this is the only one that I will write. I hope you enjoy viewing my projects as I put a good amount of time and effort in all of them <3
+This project was very tasking but very rewarding at the same time, although I did make the edges too sharp on the face (due to lack of time this project I only had a week to complete) it challenged my modeling abilities. 
+3D modeling is something that I will always enjoy doing among other things, it is incredibly rewarding and it challenges your math skills as you need to have a good understanding of math to be decent at it.
+This README is honestly a background for all my 3D modeling projects so this is the only one that I will write. I hope you enjoy viewing my projects as I put a good amount of time and effort into all of them <3
