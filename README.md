@@ -8,4 +8,5 @@ Focus more on the front profile earlier on in the modeling process, then move on
 ## Contact Information
 For further details feel free to reach out to me via email or behance
 patienceheathh@gmail.com
+---
 https://www.behance.net/patienceheath?locale=en_US 
