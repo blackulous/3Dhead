@@ -1,3 +1,7 @@
-This project was very tasking but very rewarding at the same time, although I did make the edges too sharp on the face (due to lack of time this project I only had a week to complete) it challenged my modeling abilities. 
-3D modeling is something that I will always enjoy doing among other things, it is incredibly rewarding and it challenges your math skills as you need to have a good understanding of math to be decent at it.
-This README is honestly a background for all my 3D modeling projects so this is the only one that I will write. I hope you enjoy viewing my projects as I put a good amount of time and effort into all of them <3
+# 3D Head
+## Technologies Used
+Autodesk Maya: For the complete design of the head 
+## Challenges
+This project was incredibly tasking and I had a hard time making the edges softer on the cheeks.
+## Future improvements 
+Strive less for perfection, because sometimes perfection leads to lackluster results. For this project focus on making the cheeks look more natural.
